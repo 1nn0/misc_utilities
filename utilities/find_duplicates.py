@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#!/usr/bin/python3
 
 # Originally taken from:
 # http://www.pythoncentral.io/finding-duplicate-files-with-python/
